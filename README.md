@@ -28,29 +28,31 @@ Once a assignment is entered the user can then enter one or more tasks that must
 
 ## User Requirements
 
-R1:   The software shall allow the user to enter details of an assignment. 
-R2:   The software shall allow the user to enter task details for an assignment. 
-R3:   The user shall allow the user to be able to delete an assignment. 
-R4.   The user shall allow the user to be able to delete a task. 
-R5:   The user shall allow the user to edit an assignment. 
-R6:   The user shall allow the user to edit a task. 
-R7:   The software shall allow the user to view progress of an assignment. 
-R8:   The software shall allow the user to set a reminder for an assignment. 
-R9:   The software shall allow a user to set the percentage complete for a task. 
-R10:  The software shall allow a user to set (edit/delete) the actual mark for the assignment.
+- R1:   The software shall allow the user to enter details of an assignment. 
+- R2:   The software shall allow the user to enter task details for an assignment. 
+- R3:   The user shall allow the user to be able to delete an assignment. 
+- R4.   The user shall allow the user to be able to delete a task. 
+- R5:   The user shall allow the user to edit an assignment. 
+- R6:   The user shall allow the user to edit a task. 
+- R7:   The software shall allow the user to view progress of an assignment. 
+- R8:   The software shall allow the user to set a reminder for an assignment. 
+- R9:   The software shall allow a user to set the percentage complete for a task. 
+- R10:  The software shall allow a user to set (edit/delete) the actual mark for the assignment.
 
 ## System Requirements 
 
-RS1:  The software shall notify the user when a task schedule has not been met. 
-RS2:  The software shall place the due date of an assignment in the Calendar app. 
-RS3:  The software shall give a graphical2 indication of individual task progress. 
-RS4:  The software shall give a graphical indication of assignment task progress. RS5: The software shall give a graphical indication of the days remaining before the assignment due date.
+- RS1:  The software shall notify the user when a task schedule has not been met. 
+- RS2:  The software shall place the due date of an assignment in the Calendar app. 
+- RS3:  The software shall give a graphical2 indication of individual task progress. 
+- RS4:  The software shall give a graphical indication of assignment task progress. 
+- RS5:  The software shall give a graphical indication of the days remaining before the assignment due date.
 
 ## Non Functional Requirements 
 
-NF1: The software shall adhere to Apple design guidelines as regards fonts and layout and general usability. 
-NF2: All user data shall be persistent. 
-NF3: The software shall persist the state of the UI in the event of back-grounding or the application quitting. 
-NF4. The software shall persist all coursework data even after the due date. NF5: The software shall be intuitive and simple to use.
+- NF1: The software shall adhere to Apple design guidelines as regards fonts and layout and general usability. 
+- NF2: All user data shall be persistent. 
+- NF3: The software shall persist the state of the UI in the event of back-grounding or the application quitting. 
+- NF4. The software shall persist all coursework data even after the due date. 
+- NF5: The software shall be intuitive and simple to use.
 
 Once you are done with the task upload your source code and documents to the this GitHub repository (Fork the master branch). Try to implement as much as possible within the given deadline.
