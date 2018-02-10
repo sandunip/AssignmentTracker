@@ -52,7 +52,7 @@ Once a assignment is entered the user can then enter one or more tasks that must
 - NF1: The software shall adhere to Apple design guidelines as regards fonts and layout and general usability. 
 - NF2: All user data shall be persistent. 
 - NF3: The software shall persist the state of the UI in the event of back-grounding or the application quitting. 
-- NF4. The software shall persist all coursework data even after the due date. 
+- NF4. The software shall persist all assignment data even after the due date. 
 - NF5: The software shall be intuitive and simple to use.
 
 Once you are done with the task upload your source code and documents to the this GitHub repository (Fork the master branch). Try to implement as much as possible within the given deadline.
